@@ -1,0 +1,60 @@
+Opera er et scenisk verk med sangpartier til orkesterakkompagnement, der hele teksten synges. Sangere som er skolerte i klassisk sang, agerer på scenen og anvender oftest scenekostymer. Scenen har vanligvis dekor for å illustrere handlingens miljø. Operaer kan inneholde ballettscener. En opera kan ha talt dialog isteden for resitativer. For eksempel "Tryllefløyten" av Mozart; som er av stilen singspiel.
+
+Det finnes likevel mellomformer og moderne motsvarigheter til opera, se oratorium, sangspill, operetter og musikaler. Iblant anvendes også termen "musikkdrama" som en sammenfattende benevning for alle slags typer skuespill med sang. Iblant inkluderer termen "musikkdrama" også skuespill med musikk der skuespillerne ikke selv synger, se for eksempel ballett.
+
+Forskjellen mellom oratorium/kantate og opera ligger i at i oratoriumet (eller kantaten) agerer ikke sangerne, og de opptrer ikke på en scene med dekor. Forskjellen mellom en operette/syngespill og opera er at operetten er musikalsk enklere og har friere form, men begge formene anvender skolerte stemmer. En musikal krever ikke skolerte stemmer. Den kan musikalsk snarere ses som en følge av slagere, og har ofte dansescener.
+
+En spansk zarzuela er en slags mellomting mellom opera buffa og en operette. Zarzuela er ofte en enakter med humoristisk handling med (i en viss grad) improviserte dialoger.
+
+Betegnelsen kommer fra det latinske ordet opera som betyr arbeid/verk i flertall (entall opus). Ordet «opera» brukes vanligvis om det tradisjonelle europeiske musikkteatret som oppstod i Firenze på slutten av 1500-tallet, men også andre former for musikalsk drama – for eksempel kinesisk «pekingopera» – regnes i samme kategori.
+
+Operaens form og innhold har utviklet seg gjennom de siste 400 årene, helt fra den aller første oppføringen av Claudio Monteverdis Orfeus til det fullendte uttrykket i Richard Wagners operaer. De vokale og instrumentale innslagene, samt orkesterets rolle, har dermed vært gjenstand for stadige reformer og nyskapning. Det som var vanlig på 1600-tallet, var enten forsvunnet eller forandret av tidens gang da 1800-tallet kom. Noen sjangerbetegnende elementer, som vokalformene resitativ og arie, og det intense dramaet i handlingen, har imidlertid preget operaen gjennom tidene, selv om disse elementene også har utviklet seg.
+
+Operaene ble laget av komponister som ofte representerte sin kunstneriske samtid og som var inspirerte av de kulturelle og politiske svingningene de var en del av. Det var en flytende og gjensidig påvirkning mellom de ulike sentrene for musikalsk innovasjon, der storbyer i Italia, Tyskland, Frankrike og England spilte hovedrollene. Særlig ble italiensk det store operaspråket, og dermed ble det innen operaverdenen stående en del ord og uttrykk som etter hvert ble universelle for sjangeren. Når man skal gi en oversikt over hva som skjer i en operaframføring, dukker det altså opp mange italienske fraser.
+
+Orkesterets rolle har forandret seg over tid. Fra operaens første dager var fokuset på det vokale, og etter hvert ble det lagt stadig mer vekt på sangsolistenes virtuositet. Instrumentene holdt seg i bakgrunnen slik at sangerne fikk briljere. På 1760-tallet gjorde den tyske komponisten Christoph Willibald Gluck opprør mot dette, og i hans reformopera lå fokuset mer på det instrumentale. Musikken skulle støtte opp om dynamikken i handlingen og ikke avbrytes av unødvendige «pauser» av vokale forsiringer.
+
+
+Orkesterbesetningen ble større etter hvert som nye instrumenter ble utviklet, og skiftet i takt med de musikkhistoriske epokene. I begynnelsen ble det brukt typiske basso continuo-instrumenter som cembalo, lutt, zink, orgel og bassgambe. Seinere kom de store orkestrenes tid, og komponister som Wagner og Giuseppe Verdi benyttet seg bevisst av mulighetene for klang og instrumentering. Orkesteret og musikken ble mer og mer gjenstand for eksperimentering og nyskaping – og samspillet og dynamikken mellom det musikalske og det sceniske stadig mer innfløkt. Operaen har en veldig sterk fortellende dimensjon, der dramaet ofte søker å illustrere sider ved menneskets liv og vesen. Det litterære aspektet bindes sammen med det musikalske i et forsøk på å gi tilhørerne et innblikk i det komponisten og dikteren har på hjertet. Når disse to aspektene vellykket går opp i en større helhet, gis operaen en voldsom kraft til å trollbinde sitt publikum.
+
+Opera er en nettleser utviklet av det norske selskapet Opera Software. Nettleseren lar brukeren gjøre vanlige internett-relaterte oppgaver som å vise nettsider, sende og motta e-post-meldinger, behandle kontakter, chatte på IRC, laste ned filer med BitTorrent, og lese nyhetsmatinger. Opera tilbys som gratis programvare for personlige datamaskiner og mobiltelefoner.
+
+Funksjoner i Opera omfatter blant annet fanevisning, sideskalering, musebevegelser og en integrert nedlastingsbehandler. Sikkerhetsfunksjoner omfatter innebygd phishing- og malware-beskyttelse, SSL/TLS-kryptering når man surfer på HTTPS-nettsider, og å slette private data slik som informasjonskapsler.
+
+Opera har over 200 millioner brukere over hele verden.[2] Av disse tallene er det over 50 millioner brukere på personlige datamaskiner og over 150 millioner på mobiltelefoner. Opera Mini var den mest populære nettleseren for mobiltelefoner i 2011.[3]
+
+Opera er kjent for å frambringe nye funksjoner som senere har blitt tatt i bruk av andre nettlesere.[4][5]
+
+Nettleseren er laget for de fleste operativsystemer og er tilgjengelig på mange språk, inkludert bokmål og nynorsk. Nettlesere har etter hvert blitt vanlige å bruke på mobiltelefoner. Opera utviklet tidlig en teknologi som gjorde det enklere å tilpasse nettleseren til PDA-er og mobiltelefoner, og fikk derfor tidlig kontrakter med store telefonselskaper. Opera anses å være den beste nettleseren for mobiltelefoner, et viktig punkt som dessuten ble enda sterkere da Opera Mini ble lansert. Opera Mini er programmert i Java og er på mange måter revolusjonerende fordi den ikke krever WAP-spesifikke nettsider. I stedet godtar den helt vanlige nettsider bygget opp med HTML- og CSS-koding, fordi den krymper nettsidene til et passende format og returnerer ferdig komprimert kode. Dermed sparer brukerne av nettleseren penger ved bruk av roamingnettverk slik som 3G-nettet.
+
+Opera var den første nettleseren med «faner», hvilket betyr at man kan ha mange nettsider oppe til samme tid i ett og samme vindu uten å fylle opp oppgavelinjen. Opera har en «fanelinje» hvor alle åpne sider listes.
+
+Opera støtter alle de vanligst brukte markeringsspråk og scriptspråk som benyttes på Internett, som for eksempel HTML, XML, XHTML, Javascript og CSS, samt eksperimentell støtte for Web Forms 2.0 som fortsatt er under utviking. Den kan lese protokoller som HTTP, HTTPS og FTP. Med plugins kan den også bruke Flash, Java og diverse lyd- og bildepluginer. Opera har også en epostleser som i tillegg til POP3, IMAP og SMTP også støtter NNTP for nyhetsgrupper og RSS for nyhetsstrømmer. Med en lang rekke tredjepartsutvidelser kan man legge til mye forskjellig slags annen funksjonalitet. Opera gir også muligheter for online chatting med IRC.
+
+Med Small Screen Rendering er det er mulig å forhåndsvise hvordan nettsider vil se ut på mobiltelefoner. Opera leser også WML, språket som benyttes i WAP.
+
+Opera startet som et prosjekt utviklet av Televerket (nå Telenor) i 1992, men da Televerket ikke lenger ønsket å satse på prosjektet, gikk Jon Stephenson von Tetzchner og Geir Ivarsøy sammen om å arbeide videre med det i et eget selskap, Opera Software. Selve navnet kom ikke på plass før etter mange måneder med tankeslit.
+
+Lederen for selskapet er Jon Stephenson von Tetzchner. I 2004 mottok Opera PC Worlds Best Browser Award og senere PC World World Class 2005.
+
+Fra versjon 5.0 var nettleseren tilgjengelig gratis med reklamebannere. Betalte man ca. 400 kroner, ble dette banneret fjernet og man fikk tilgang på premium support. Med versjon 8.5 fjernet Opera reklamebanneret og tilbød nettleseren gratis. Nå som programvaren er gratis, genererer Opera Software inntekter på de innebygde søkemotorene samt lisenser til mobilprodusenter som Motorola, Nokia m.fl.
+
+I november 2005 vant gründerne bak Opera Entrepreneur of the Year 2004 og ble kåret til Norges beste innen tjenester.[6]
+
+nnebygd søkefunksjon i søkefeltet
+Forstørre tekst og grafikk
+Musesnarveier for rask navigering
+Innebygd epost- og feedleser
+Innebygd IRC-client
+Popup-blokkering
+Enkel anvendelse av temaer som forandrer utseende
+Innebygd støtte for BitTorrent
+Innholdsblokkering
+
+Opera Mini er en gratis, kompakt nettleser for mobiltelefoner og andre enheter som har Java ME installert. Den bruker Opera sin server til å gjengi og forminske sider før binærdata blir sendt til et lite program som blir kjørt på telefonen. Denne metoden gjør mange sider kompatible med mobiltelefonen.
+
+15. februar 2006 annonserte Opera at de hadde utviklet en nettleser for Nintendo DS. Denne bruker systemets todelte skjerm for enten å zoome inn på deler av nettsiden eller for å ha en lengre vertikal skjerm. Nettleseren startet salget i Japan 24. juli 2006 og kostet 3800 yen (ca. 190 norske kroner). I Europa ble den lansert 6. oktober 2006 og i Australia 18. januar 2007. Utgivelsesdatoen i USA var 4. juni 2007.
+
+Nintendos Wii-konsoll kommer med en spesiallaget versjon av Opera.
+
+Sony skal bruke en versjon av Opera på flere av sine TV-er og Blu-ray Disc-spillere.[7]
